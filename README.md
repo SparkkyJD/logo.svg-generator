@@ -9,11 +9,14 @@ Create a logo for your projects!
 
 ## Table of Contents
 - [Installation](#installation)
-- [Usage Instructions](#usage-instructions)
-- [Contribution Guidelines](#contribution-guidelines)
-- [Test Instructions](#test-instructions)
+- [Usage Instructions](#usage)
+- [Contribution Guidelines](#contribution)
+- [Test Instructions](#test)
 - [Questions](#questions)
-- [License Type](#license-type)
+- [License Type](#license)
+
+## Screenshot 
+![Screenshot (56)](https://github.com/SparkkyJD/logo.svg-generator/assets/127361245/562a7b83-b0ad-4c21-96d4-c473caee57be)
 
 
 ## Installation <a name="installation"></a>
